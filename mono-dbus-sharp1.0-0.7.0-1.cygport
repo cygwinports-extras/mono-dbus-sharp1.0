@@ -1,0 +1,5 @@
+inherit mono
+
+HOMEPAGE="http://mono.github.com/dbus-sharp/"
+SRC_URI="http://github.com/downloads/mono/dbus-sharp/dbus-sharp-${PV}.tar.gz"
+SRC_DIR="dbus-sharp-${PV}"
